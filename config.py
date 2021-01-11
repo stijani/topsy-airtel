@@ -1,2 +1,2 @@
-USER_NAME = 'topsy'
-PASSWORD = 'topsy'
+USER_NAME = 'saheed'
+PASSWORD = 'saheed-pwd'
