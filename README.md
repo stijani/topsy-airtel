@@ -1,2 +1,2 @@
-# topsy-airtel
-Mini Networing Project
+# networking-airtel
+Custom Networking Module - Airtel Nigeria
