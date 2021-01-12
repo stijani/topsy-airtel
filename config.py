@@ -1,2 +1,2 @@
 USER_NAME_TOPSY = 'topsy'
-PASSWORD = 'topsy-pwd1'
+PASSWORD_TOPSY = 'topsy-pwd1'
