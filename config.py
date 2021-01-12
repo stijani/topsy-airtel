@@ -1,2 +1,2 @@
-USER_NAME = 'default'
-PASSWORD = 'default-pwd'
+USER_NAME_SAHEED = 'saheed'
+PASSWORD_SAHEED = 'saheed-pwd'
